@@ -43,3 +43,20 @@ class code {
     }
 
 }
+
+
+
+/*
+About 
+Company Name:  Casa Retail AI (Formally Ajira Tech) ||  M.Tech / B.Tech (CSE / ISE) || 2023 Batch ||
+
+Role: Fullstack/Backend Developer/SDET
+
+CTC: INR 10 LPA
+
+Base location: Chennai
+
+This program is part of coding challenge which is first round of the interview process for the company
+
+total of 4 rounds are present.
+*/
