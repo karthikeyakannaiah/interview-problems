@@ -1,7 +1,7 @@
 #include <iostream>
 #include <climits>
 using namespace std;
-
+// Selection sort
 int main(){
     int n, key;
     cout << "enter size of array :\n";
