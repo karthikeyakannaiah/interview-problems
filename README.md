@@ -1,21 +1,16 @@
 # interview-problems
 
-here is a series of problems which i have faced during my placement campaign
+Hello there everyone,  
+so this repository works as LOG and IMP Notes during my placement campaign  
+I will be logging info  
+and also notes and code files related to learning  
+I created this repository to create a track of things not only attempts but also my learnings  
+Basically whole process or journey (obstacles, setbacks,results, prep, learnings etc..,) 
+So feel free to check out  
+somethings which i have logged like exams and interviews experiences info   
+and notes I have prepared and templates, important algos codes etc..,   
+might be helpful to you  
 
-if you wanna be judgemental,
-its useless to judge someone who you think is vulnerable to you
-
-go fight some bigger fish and it would improve you taking on someone bigger
-
-otherwise please feel free to check out all my f\*ckups to satisfactory accomplishments
-
-life is all about everything it has to offer,
-no need to smile everyday, just smile when its needed
-
-We all have a long way to go my friend.
-
-I will smile when we reach 
-:)
-
-Yours
-Karthikeya Kannaiah
+   
+Yours  
+**Karthikeya Kannaiah**
