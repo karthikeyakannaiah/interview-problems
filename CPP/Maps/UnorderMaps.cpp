@@ -41,3 +41,18 @@ int main(){
     }
     print(um);
 }
+/*
+OUPUT:
+Size of unordered map is 5
+6 weru
+2 adsh
+5 dsio
+3 kdfe
+1 bdsj
+
+Size of unordered map is 4
+2 adsh
+5 dsio
+3 kdfe
+1 bdsj
+*/
