@@ -97,3 +97,29 @@ int main() {
     Maps use red black trees to manage themselves for sorting
     
 */
+/*
+OUTPUT:
+
+1 abc
+2 ajs
+3 cdc
+1 abc
+2 ajs
+3 cdc
+7 njs
+print size of map : 5
+1 abc
+2 ajs
+3 cdc
+6 
+7 kar
+2 ajs
+Not found
+print size of map : 3
+1 abc
+2 ajs
+7 kar
+
+print size of map : 0
+
+*/
