@@ -1,4 +1,3 @@
-// https://youtu.be/v_qm2Sce7as  (hindi)
 #include <bits/stdc++.h>
 // Pointers
 // stores address of a variable
