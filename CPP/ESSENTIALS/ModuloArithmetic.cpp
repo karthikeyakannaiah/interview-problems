@@ -29,13 +29,13 @@ int main(){
 // https://cp-algorithms.com/algebra/factorial-modulo.html#implementation
 // MODULAR ARITHMETIC (M)
 /*
-    (a+b)%M == (a%M + b%M) % M
+    (a+b) % M == (a % M + b % M) % M
     
-    (a*b)%M == (a%M * b%M) % M
+    (a*b) % M == (a % M * b % M) % M
 
-    (a-b)%M == (a%M - b%M + M) % M 
+    (a-b) % M == (a % M - b % M + M) % M 
 
-    (a/b)%M == (a%M * (b^(-1))%M) / M
+    (a/b) % M == (a % M * (b^(-1)) % M) % M
 
     here b-inverse is found by doing modular (aka binary) exponentiation 
 
