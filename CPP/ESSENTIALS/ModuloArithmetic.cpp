@@ -25,6 +25,8 @@ int main(){
     }
     cout << fact << endl;
 }
+
+// https://cp-algorithms.com/algebra/factorial-modulo.html#implementation
 // MODULAR ARITHMETIC (M)
 /*
     (a+b)%M == (a%M + b%M) % M
