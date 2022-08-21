@@ -2,7 +2,7 @@
 
 **Rounds attempted so far**    
   
-> **1 CODING TEST**  
+> **1 CODING TEST**  *05/08/2023*  
   One hour time given   
   Two problem statements  
   I have solved the first question ->  Passed 4 out of 5 testcases.  
@@ -10,7 +10,7 @@
 
 **Result:** Cleared coding test
 
-> **2 Technical Interview**  
+> **2 Technical Interview**  *08/08/2023*  
   50 Minutes interview  
   interviewer was *Somashekhar*, Staff Software engineer -- GE digital  
   Chronology of events:  
